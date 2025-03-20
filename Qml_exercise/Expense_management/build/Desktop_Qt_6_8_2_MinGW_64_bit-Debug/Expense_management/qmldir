@@ -1,0 +1,5 @@
+module Expense_management
+typeinfo appExpense_management.qmltypes
+prefer :/qt/qml/Expense_management/
+Main 1.0 Main.qml
+

@@ -1,0 +1,148 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 637,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "db",
+                        "line": 20
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 195,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "initializeDB",
+                        "line": 30
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addExpenseToDB",
+                        "line": 38
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "removeExpenseFromDB",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "Cannot generate efficient code for LoadClosure",
+                        "functionName": "loadExpenses",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 5,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addExpense",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 9,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "removeExpense",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 17,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 20,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "model",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name expenseList",
+                        "functionName": "width",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 27,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 155
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on onClicked.",
+                        "functionName": "onClicked",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Cannot resolve property type  for binding on text.",
+                        "functionName": "text",
+                        "line": 176
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 178
+                    }
+                ],
+                "filepath": "E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/Main.qml"
+            }
+        ],
+        "moduleId": "Expense_management(appExpense_management)"
+    }
+]

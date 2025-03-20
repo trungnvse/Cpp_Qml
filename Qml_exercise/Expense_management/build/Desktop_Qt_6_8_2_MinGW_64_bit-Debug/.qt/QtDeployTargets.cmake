@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appExpense_management_FILE E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appExpense_management.exe)
+set(__QT_DEPLOY_TARGET_appExpense_management_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appExpense_management_RUNTIME_DLLS C:/Qt/6.8.2/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Network.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Core.dll)

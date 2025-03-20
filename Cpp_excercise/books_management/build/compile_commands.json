@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/rooster.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\rooster.dir\\main.cpp.obj -c E:\\PROGRAMMING\\Language_C_plusplus\\foudation_C_plusplus\\projects\\books_management\\main.cpp",
+  "file": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/main.cpp",
+  "output": "CMakeFiles/rooster.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/build/_deps/fmt-build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/fmt.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\fmt.dir\\src\\format.cc.obj -c E:\\PROGRAMMING\\Language_C_plusplus\\foudation_C_plusplus\\projects\\books_management\\build\\_deps\\fmt-src\\src\\format.cc",
+  "file": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.obj"
+},
+{
+  "directory": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/build/_deps/fmt-build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/fmt.dir/includes_CXX.rsp -g -std=gnu++23 -o CMakeFiles\\fmt.dir\\src\\os.cc.obj -c E:\\PROGRAMMING\\Language_C_plusplus\\foudation_C_plusplus\\projects\\books_management\\build\\_deps\\fmt-src\\src\\os.cc",
+  "file": "E:/PROGRAMMING/Language_C_plusplus/foudation_C_plusplus/projects/books_management/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.obj"
+}
+]

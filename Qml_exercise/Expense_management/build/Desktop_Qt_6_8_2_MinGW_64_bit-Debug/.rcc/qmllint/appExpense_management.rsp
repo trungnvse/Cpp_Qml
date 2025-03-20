@@ -1,0 +1,10 @@
+--bare
+-I
+E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.8.2/mingw_64/qml
+--resource
+E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/qmake_Expense_management.qrc
+--resource
+E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/.qt/rcc/appExpense_management_raw_qml_0.qrc
+E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/Main.qml

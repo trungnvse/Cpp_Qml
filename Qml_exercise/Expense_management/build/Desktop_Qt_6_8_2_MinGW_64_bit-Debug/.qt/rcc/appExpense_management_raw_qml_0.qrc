@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Expense_management/">
+    <file alias="Main.qml">E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/Main.qml</file>
+  </qresource>
+</RCC>
+

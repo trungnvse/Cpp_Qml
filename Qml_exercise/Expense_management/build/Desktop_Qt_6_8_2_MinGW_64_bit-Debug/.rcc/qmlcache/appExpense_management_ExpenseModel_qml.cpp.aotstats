@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "addExpense",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "removeExpense",
+                        "line": 22
+                    }
+                ],
+                "filepath": "E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/ExpenseModel.qml"
+            }
+        ],
+        "moduleId": "Expense_management(appExpense_management)"
+    }
+]

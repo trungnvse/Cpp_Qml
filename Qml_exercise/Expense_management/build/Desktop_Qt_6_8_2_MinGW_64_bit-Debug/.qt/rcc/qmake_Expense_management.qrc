@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/Expense_management">
+    <file alias="qmldir">E:/PROGRAMMING/Language_C_plusplus/foudation_QML/projects/Expense_management/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/Expense_management/qmldir</file>
+  </qresource>
+</RCC>
+
